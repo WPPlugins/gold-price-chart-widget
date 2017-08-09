@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gold Price Widget\n"
+"POT-Creation-Date: 2016-10-26 15:22-0600\n"
+"PO-Revision-Date: 2017-03-08 08:34-0600\n"
+"Last-Translator: \n"
+"Language-Team: Goldbroker.com <seo@goldbroker.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: gold-price-chart.php\n"
+
+#: gold-price-chart.php:180 gold-price-chart.php:236
+msgid "Title"
+msgstr "Titre"
+
+#: gold-price-chart.php:185 gold-price-chart.php:241
+msgid "Select currency"
+msgstr "Währung"
+
+#: gold-price-chart.php:200
+msgid "Height"
+msgstr "Höhe"
+
+#: gold-price-chart.php:205
+msgid "Width"
+msgstr "Breite"
+
+#: gold-price-chart.php:216 gold-price-chart.php:263
+msgid "www.goldbroker.com"
+msgstr ""
+
+#: gold-price-chart.php:216
+msgid "by"
+msgstr "von"
+
+#: gold-price-chart.php:216
+msgid "Goldbroker.com"
+msgstr ""
+
+#: gold-price-chart.php:274
+msgid "Live Silver Price"
+msgstr "Silberpreis"
+
+#: gold-price-chart.php:275 gold-price-chart.php:343
+msgid "Silver Price"
+msgstr "Silberpreis"
+
+#: gold-price-chart.php:276
+msgid "Live silver price chart"
+msgstr "Silberpreis chart"
+
+#: gold-price-chart.php:291
+msgid "Live Gold Price"
+msgstr "Goldpreis"
+
+#: gold-price-chart.php:292 gold-price-chart.php:357
+msgid "Gold Price"
+msgstr "Goldpreis"
+
+#: gold-price-chart.php:293
+msgid "Live gold price chart"
+msgstr "Goldpreis chart"
+
+#: gold-price-chart.php:308
+msgid "Live Palladium Price"
+msgstr "Palladiumpreis"
+
+#: gold-price-chart.php:309 gold-price-chart.php:372
+msgid "Palladium Price"
+msgstr "Palladiumpreis"
+
+#: gold-price-chart.php:310
+msgid "Live palladium price chart"
+msgstr "Palladiumpreis chart"
+
+#: gold-price-chart.php:325
+msgid "Live Platinum Price"
+msgstr "Platinpreis"
+
+#: gold-price-chart.php:326 gold-price-chart.php:386
+msgid "Platinum Price"
+msgstr "Platinpreis"
+
+#: gold-price-chart.php:327
+msgid "Live platinum price chart"
+msgstr "Platinpreis chart"
+
+#: gold-price-chart.php:342 gold-price-chart.php:344
+msgid "Live 1 ounce Silver Price"
+msgstr "1 Unze Silberpreis"
+
+#: gold-price-chart.php:356 gold-price-chart.php:358
+msgid "Live 1 ounce Gold Price"
+msgstr "1 Unze Goldpreis"
+
+#: gold-price-chart.php:371 gold-price-chart.php:373
+msgid "Live 1 ounce Palladium Price"
+msgstr "1 Unze Palladiumpreis"
+
+#: gold-price-chart.php:385 gold-price-chart.php:387
+msgid "Live 1 ounce Platinum Price"
+msgstr "1 Unze Platinpreis"
